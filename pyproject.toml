@@ -5,8 +5,10 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
+    "catboost>=1.2.10",
     "imblearn>=0.0",
     "ipykernel>=7.3.0",
+    "lightgbm>=4.7.0",
     "matplotlib>=3.11.1",
     "numpy>=2.5.3",
     "openpyxl>=3.1.5",
