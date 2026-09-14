@@ -1044,7 +1044,7 @@ The best ML model is not necessarily the model with the highest ROC-AUC. The bes
 
 👨‍💻 Author
 
-Your Name
+Alexander Sergeevich
 
 Data Scientist / ML Engineer
 
@@ -1063,39 +1063,6 @@ Data Visualization
 Decision Science
 ⭐ Project Status
 🟡 In Development
-Roadmap
-
-Business problem definition
-
-Dataset selection
-
-Data quality analysis
-
-EDA
-
-Feature engineering
-
-Baseline ML model
-
-Advanced ML models
-
-Model evaluation
-
-Calibration
-
-SHAP analysis
-
-Business metrics
-
-Threshold optimization
-
-Scenario analysis
-
-Tableau dashboards
-
-Final business recommendations
-
-Portfolio-ready documentation
 
 📚 Dataset Source
 
