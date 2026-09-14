@@ -451,17 +451,6 @@ Predicted PD = 20%
 
 should correspond approximately to a 20% observed default rate for a sufficiently large group of similar predictions.
 
-📊 Model Comparison
-
-The final model comparison will include:
-
-Model	ROC-AUC	PR-AUC	Precision	Recall	F1	Brier
-Logistic Regression	TBD	TBD	TBD	TBD	TBD	TBD
-Random Forest	TBD	TBD	TBD	TBD	TBD	TBD
-CatBoost	TBD	TBD	TBD	TBD	TBD	TBD
-
-Metrics are intentionally marked as TBD until the final models are trained and evaluated on the test set.
-
 🎯 Probability of Default
 
 Instead of returning only:
@@ -601,14 +590,6 @@ Default Rate
 Expected Loss
 Expected Revenue
 Expected Profit
-
-Example:
-
-PD Threshold	Approval Rate	Default Rate	Expected Loss	Expected Profit
-5%	TBD	TBD	TBD	TBD
-10%	TBD	TBD	TBD	TBD
-15%	TBD	TBD	TBD	TBD
-20%	TBD	TBD	TBD	TBD
 
 The objective is:
 
@@ -921,6 +902,9 @@ Place the CSV file into:
 
 data/
 5. Run notebooks
+
+6. Tableau story:
+https://public.tableau.com/app/profile/alexander.sergeevich/viz/Credit_Risk_analytics_loan_/Story1?publish=yes
 
 📌 Key Questions Answered
 
